@@ -12,6 +12,7 @@
 <img src="https://github.com/user-attachments/assets/b978ab69-b1b8-444e-8c59-bf004a27a545" width="100" height="100"/>
 <img src="https://github.com/user-attachments/assets/26ccd2c3-7bae-4365-9a41-1cd1657fa804" width="100" height="100"/>
 
+#### 실행방법
 1. xmapp Apache 실행
 2. cmd -> "ngrok http http://localhost:80"
 3. url -> "http://localhost/myworkspace/wireframe.html"
