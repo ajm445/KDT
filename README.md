@@ -6,4 +6,4 @@
 
 개발환경 : vscode
 
-![Image](https://github.com/user-attachments/assets/1c9d5124-362f-4714-82bf-57f4641195cd)
+<img src="https://github.com/user-attachments/assets/1c9d5124-362f-4714-82bf-57f4641195cd width="200" height="400"/>
