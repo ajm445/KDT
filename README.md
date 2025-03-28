@@ -9,3 +9,4 @@
 로고
 
 <img src="https://github.com/user-attachments/assets/1c9d5124-362f-4714-82bf-57f4641195cd" width="100" height="100"/>
+<img src="https://github.com/user-attachments/assets/b978ab69-b1b8-444e-8c59-bf004a27a545" width="100" height="100"/>
