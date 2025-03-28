@@ -5,3 +5,5 @@
 서버 및 네트워크 : xampp, chocolatey, ngrok 활용
 
 개발환경 : vscode
+
+![Image](https://github.com/user-attachments/assets/1c9d5124-362f-4714-82bf-57f4641195cd)
