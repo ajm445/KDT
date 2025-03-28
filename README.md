@@ -15,4 +15,4 @@
 #### 실행방법
 1. xmapp Apache 실행
 2. cmd -> "ngrok http http://localhost:80"
-3. url -> "http://localhost/myworkspace/wireframe.html"
+3. url <"http://localhost/myworkspace/wireframe.html"> 실행
