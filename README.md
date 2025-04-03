@@ -1,4 +1,4 @@
-# KDT
+# KDT-blackteam
 
 #### 와이어프레임 : ppt, figma, Miro
 
